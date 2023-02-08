@@ -1,3 +1,2 @@
-HELLO ALL MY NAME IS KARTHIK
-THIS SESSION IS GIT
-OK THANK YOU
+my name is karthik
+persuing mca
